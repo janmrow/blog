@@ -5,3 +5,5 @@ My blog project based on this tutorial: https://mackenziechild.me/12-in-12/2/
 Admin can log in/out and add/edit/delete posts.
 Users are able to comment posts.
 Admin can delete comments.
+
+Clean design in HTML/SASS based on tutorial source.
